@@ -1,0 +1,6 @@
+{
+  "appId": "com.musicvideo.player",
+  "appName": "Music Video",
+  "webDir": "dist",
+  "backgroundColor": "#0c0519"
+}
